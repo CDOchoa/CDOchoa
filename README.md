@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Data Analyst
-- 🌱 I’m currently learning
+### Data Analyst/ Business  Analyst
+I believe that Data is powerful
+
+- 🌱 I’m currently learning in Dataquest 
 
