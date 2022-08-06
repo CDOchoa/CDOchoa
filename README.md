@@ -17,5 +17,10 @@ Here are some ideas to get you started:
 ### Data Analyst/ Business  Analyst
 I believe that Data is powerful
 
-- 🌱 I’m currently learning in Dataquest 
+- 🌱 I’m currently learning in Dataquest
 
+### Skills
+- Python
+- Microsoft Excel
+- Power BI
+- SQL
