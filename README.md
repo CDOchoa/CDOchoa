@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 I believe that Data is powerful
 
 - 🌱 I’m currently learning in Dataquest
+- 🤔 I’m looking for help to learn BLOCKCHAIN 
 
 ### Skills
 <p align="left">
