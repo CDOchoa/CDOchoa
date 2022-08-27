@@ -23,11 +23,11 @@ I believe that Data is powerful
 ### Data Skills
 <p align="left">
  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" width="36" height="36" alt="SQL" /></a>
- <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303193/microsoft-excel-2013-logo.svg" width="36" height="36" alt="Excel" /></a>
+ <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373589/excel.svg" width="36" height="36" alt="Excel" /></a>
  <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/b76704a375ae550a08e627ab148945e6eee3d0d6/SVG/Power-BI.svg" width="36" height="36" alt="PowerBi" /></a>
 </p>
 
 ## Programming Improve
 <p align="left">
- <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/732/732204.png" width="36" height="36" alt="PowerBi" /></a>
+ <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354238/python.svg" width="36" height="36" alt="Python" /></a>
 </p>
